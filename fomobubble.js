@@ -1,5 +1,5 @@
 // base text template
-var bubbleText = "<b>[NAME]</b> acaba de descargar <br/><b>[ITEM]</b> desde <b>[COUNTRY]</b><br/>hace [MINUTES] minutos."
+var bubbleText = "<b>[NAME]</b> descargó <br/><b>[ITEM]</b> desde <b>[COUNTRY]</b><br/>hace [MINUTES] minutos."
 
 // get div
 var x = document.getElementById("bubble");
